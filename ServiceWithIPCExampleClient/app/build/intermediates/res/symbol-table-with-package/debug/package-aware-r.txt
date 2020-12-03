@@ -109,6 +109,8 @@ id standard
 id stopButton
 id text1
 id text2
+id textView
+id textView2
 id thing_proto
 id url
 id wide

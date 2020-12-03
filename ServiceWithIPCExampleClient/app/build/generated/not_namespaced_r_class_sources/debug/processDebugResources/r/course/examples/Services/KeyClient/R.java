@@ -357,9 +357,11 @@ public final class R {
     public static final int stopButton=0x7f040024;
     public static final int text1=0x7f040025;
     public static final int text2=0x7f040026;
-    public static final int thing_proto=0x7f040027;
-    public static final int url=0x7f040028;
-    public static final int wide=0x7f040029;
+    public static final int textView=0x7f040027;
+    public static final int textView2=0x7f040028;
+    public static final int thing_proto=0x7f040029;
+    public static final int url=0x7f04002a;
+    public static final int wide=0x7f04002b;
   }
   public static final class integer {
     public static final int google_play_services_version=0x7f050000;
