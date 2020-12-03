@@ -5,6 +5,7 @@
     android:versionName="1.0" >
 
     <uses-permission android:name="course.examples.Services.KeyService.GEN_ID" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
 
     <application
         android:allowBackup="false"

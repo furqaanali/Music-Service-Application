@@ -1,18 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/5ec5a0590c816236e3cb467163c5d1c6/AndroidManifest.xml:16:1-19:12
 MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/7482e818b19d312fe5411dbfd9913940/AndroidManifest.xml:16:1-21:12
 MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/d3a2f50da309160e66fdf187a7ccce21/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/12b2137718c74a933ac5c2afe908d65d/AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/4dc4b9168d62f8da9e282888d4a948c1/AndroidManifest.xml:16:1-23:12
 MERGED from [com.android.support:support-v4:24.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/7b2827a479113fedd07388308cad77b6/AndroidManifest.xml:17:1-27:12
-INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
@@ -31,8 +31,12 @@ uses-permission#course.examples.Services.KeyService.GEN_ID
 ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:5-82
 	android:name
 		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:22-79
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:8:22-74
 application
-ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:9:5-22:19
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:10:5-23:19
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/5ec5a0590c816236e3cb467163c5d1c6/AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/5ec5a0590c816236e3cb467163c5d1c6/AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/7482e818b19d312fe5411dbfd9913940/AndroidManifest.xml:18:5-20:19
@@ -46,25 +50,25 @@ MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/furqaan
 MERGED from [com.android.support:support-v4:24.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/7b2827a479113fedd07388308cad77b6/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/7b2827a479113fedd07388308cad77b6/AndroidManifest.xml:25:5-20
 	android:icon
-		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:9-45
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:12:9-45
 	android:allowBackup
-		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:10:9-36
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:9-36
 activity#course.examples.Services.KeyClient.KeyServiceUser
-ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:13:9-21:20
 	android:label
-		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:14:13-47
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:13:13-44
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:14:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml

@@ -37,6 +37,11 @@ public class KeyServiceUser extends Activity {
 
 		setContentView(R.layout.main);
 
+		Intent i = new Intent(KeyGenerator.class.getName());
+		ResolveInfo info = getPackageManager().resolveService(i, 0);
+		i.setComponent(new ComponentName(info.serviceInfo.packageName, info.serviceInfo.name));
+		startForegroundService(i);
+
 		final TextView output = (TextView) findViewById(R.id.output);
 		final ImageView imageView = (ImageView) findViewById(R.id.imageView);
 
@@ -184,6 +189,10 @@ public class KeyServiceUser extends Activity {
 				Log.i(TAG, "Ugo says bindService() failed!");
 			}
 		}
+
+		else {
+			Log.i(TAG, "Ugo says service is already binded");
+		}
 	}
 
 	// Unbind from KeyGenerator Service
@@ -192,9 +201,6 @@ public class KeyServiceUser extends Activity {
 
 		super.onPause();
 
-		if (mIsBound) {
-			unbindService(this.mConnection);
-		}
 	}
 
 	private final ServiceConnection mConnection = new ServiceConnection() {
@@ -227,6 +233,23 @@ public class KeyServiceUser extends Activity {
 	public void onStop() {
 		super.onStop();
 
+		if (mIsBound) {
+			unbindService(this.mConnection);
+			mIsBound = false;
+			Log.i(TAG, "Ugo says unbindService() succeeded!");
+		}
 
+	}
+
+	@Override
+	protected void onDestroy() {
+//		Intent i = new Intent(KeyGenerator.class.getName());
+//		ResolveInfo info = getPackageManager().resolveService(i, 0);
+//		i.setComponent(new ComponentName(info.serviceInfo.packageName, info.serviceInfo.name));
+		Intent i = new Intent();
+		i.setComponent(new ComponentName("course.examples.Services.KeyService", "course.examples.Services.KeyService.KeyGeneratorImpl"));
+		stopService(i);
+		Log.i(TAG, "Service stopped!");
+		super.onDestroy();
 	}
 }

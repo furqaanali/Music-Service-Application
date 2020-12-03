@@ -182,26 +182,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1606975296114">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1606988197991">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1606975296114" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1606975911189">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1606988197991" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1606991176931">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606975911189" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1606975911186">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606991176931" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1606991176928">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606975911186" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1606975911185">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606991176928" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1606991176926">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606975911185" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1606975911187">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606991176926" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1606991176929">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606975911187" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606991176929" />
     <state x="497" y="235" key="chooseDestDirectoryDialog" timestamp="1606922716599">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -214,6 +214,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1606974487634" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606991132265">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606991132265" />
   </component>
   <component name="masterDetails">
     <states>

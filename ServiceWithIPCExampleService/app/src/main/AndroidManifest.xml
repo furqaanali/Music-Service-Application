@@ -3,6 +3,8 @@
     package="course.examples.Services.KeyService"
     android:versionCode="1"
     android:versionName="1.0" >
+    
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
 
     <permission android:name="course.examples.Services.KeyService.GEN_ID" >
     </permission>
