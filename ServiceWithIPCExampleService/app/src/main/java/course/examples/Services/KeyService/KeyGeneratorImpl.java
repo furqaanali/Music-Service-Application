@@ -94,7 +94,7 @@ public class KeyGeneratorImpl extends Service {
 				}
 				else if (audioID != currentTrack) {
 					mPlayer.stop();
-					mPlayer.release();
+//					mPlayer.release();
 					mPlayer = MediaPlayer.create(getApplicationContext(), audioID);
 				}
 
@@ -113,7 +113,7 @@ public class KeyGeneratorImpl extends Service {
 		public void stopMusic() {
 			if (mPlayer != null) {
 				mPlayer.stop();
-				mPlayer.release();
+//				mPlayer.release();
 				mPlayer = null;
 			}
 		}
@@ -211,7 +211,6 @@ public class KeyGeneratorImpl extends Service {
 		Log.i("Ugo says", "Destroy called") ;
 		if (mPlayer != null) {
 			mPlayer.stop();
-			mPlayer.release();
 		}
 		super.onDestroy();
 	}
