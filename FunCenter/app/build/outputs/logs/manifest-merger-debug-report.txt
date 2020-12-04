@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c5972097e96b5dc720bf023fb389dba6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d03608930380ba949625c704aaf3b5cf/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4d3ce0c01293f02af693ddd6cb0d8321/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:7:22-74
+permission#com.FunCenter.Service
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:9:5-10:18
+	android:name
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:9:17-53
+application
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:12:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c5972097e96b5dc720bf023fb389dba6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c5972097e96b5dc720bf023fb389dba6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d03608930380ba949625c704aaf3b5cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d03608930380ba949625c704aaf3b5cf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c5972097e96b5dc720bf023fb389dba6/AndroidManifest.xml:22:18-91
+	android:icon
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:13:9-36
+service#com.FunCenter.FunCenterFunctionsImpl
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:16:9-24:19
+	android:label
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:19:13-36
+	android:permission
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:18:13-51
+intent-filter#action:name:course.examples.Services.KeyCommon.KeyGenerator
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:21:13-23:29
+action#course.examples.Services.KeyCommon.KeyGenerator
+ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:22:17-90
+	android:name
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml:22:25-87
+uses-sdk
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-compat:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c5972097e96b5dc720bf023fb389dba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c5972097e96b5dc720bf023fb389dba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d03608930380ba949625c704aaf3b5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d03608930380ba949625c704aaf3b5cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4d3ce0c01293f02af693ddd6cb0d8321/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/furqaanali/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4d3ce0c01293f02af693ddd6cb0d8321/AndroidManifest.xml:20:5-44
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/furqaanali/Documents/Semesters/Fall 2020/CS 478/Sample Apps/Services/FunCenter/app/src/main/AndroidManifest.xml
