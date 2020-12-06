@@ -42,30 +42,8 @@ public class FunClient extends Activity {
 		i.setComponent(new ComponentName("com.FunCenter", "com.FunCenter.FunCenterFunctionsImpl"));
 		startForegroundService(i);
 
-		final TextView output = (TextView) findViewById(R.id.output);
+
 		final ImageView imageView = (ImageView) findViewById(R.id.imageView);
-
-		final Button goButton = (Button) findViewById(R.id.go_button);
-		goButton.setOnClickListener(new OnClickListener() {
-
-			public void onClick(View v) {
-
-				try {
-
-					// Call FunCenter and get a new ID
-					if (mIsBound) {
-						output.setText(mFunCenterService.getKey()[0]);
-					} else {
-						Log.i(TAG, "Ugo says that the service was not bound!");
-					}
-
-				} catch (RemoteException e) {
-
-					Log.e(TAG, e.toString());
-
-				}
-			}
-		});
 
 		final Button getImageButton = (Button) findViewById(R.id.button1);
 		getImageButton.setOnClickListener(new OnClickListener() {

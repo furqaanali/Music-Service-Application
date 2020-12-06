@@ -81,7 +81,6 @@ id demote_rfc822_hostnames
 id editText
 id editText2
 id email
-id go_button
 id html
 id icon_only
 id icon_uri
@@ -93,14 +92,12 @@ id intent_activity
 id intent_data
 id intent_data_id
 id intent_extra_data
-id labeloutput
 id large_icon_uri
 id light
 id match_global_nicknames
 id none
 id omnibox_title_section
 id omnibox_url_section
-id output
 id pauseButton
 id plain
 id playButton
